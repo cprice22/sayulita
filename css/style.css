@@ -1,0 +1,44 @@
+body {
+  line-height: 1.5;
+  color: green;
+
+  background: url('../images/say_beach.jpg');
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+}
+
+.container1 {
+  width: 575px;
+  margin: 75px;
+  padding: 15px;
+  position: fixed;
+  bottom: 0;
+  right: 0;
+  text-align: center;
+}
+
+.container2 {
+  margin: 25px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+}
+
+h1 {
+	font-family: 'Shadows Into Light', cursive;
+	font-size: 100px;
+	margin-top: -25px;
+	margin-bottom: -50px;
+}
+
+h2 {
+	color: #BE0027;
+	font-family: 'Lobster', cursive;
+	font-size: 50px;
+	margin-bottom: 0px;
+}
+
+a {
+	text-decoration: none;
+}
